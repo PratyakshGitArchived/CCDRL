@@ -1,0 +1,9 @@
+Instructions
+
+Code has been included for compatibility for running DQN
+
+>> Downgraded from tensorflow 2 to tensorflow 1
+>> Installed Keras RL module
+
+
+
